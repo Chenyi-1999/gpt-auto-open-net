@@ -1,0 +1,26 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.autousb.helper'
+    compileSdk 36
+    defaultConfig {
+        applicationId 'com.autousb.helper'
+        minSdk 31
+        targetSdk 36
+        versionCode 19
+        versionName '1.1.7'
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+    buildTypes {
+        release {
+            // Preserve in-place upgrades from this device's 0.x test builds.
+            // The local development keystore is never distributed with the source.
+            signingConfig signingConfigs.debug
+            debuggable false
+        }
+    }
+}
+dependencies { testImplementation 'junit:junit:4.13.2' }

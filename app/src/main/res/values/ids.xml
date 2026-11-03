@@ -1,0 +1,5 @@
+<resources>
+    <item name="interval30" type="id" />
+    <item name="interval60" type="id" />
+    <item name="interval120" type="id" />
+</resources>

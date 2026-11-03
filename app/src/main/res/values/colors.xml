@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="surface_background">#F4F7FA</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="text_primary">#18273D</color>
+    <color name="text_secondary">#526377</color>
+    <color name="action_primary">#18375B</color>
+    <color name="action_primary_pressed">#122A46</color>
+    <color name="action_secondary">#EDF2F7</color>
+    <color name="action_secondary_pressed">#E0E9F1</color>
+    <color name="action_disabled">#E1E6EC</color>
+    <color name="state_accent">#006964</color>
+    <color name="state_success">#186F4D</color>
+    <color name="state_error">#A33131</color>
+    <color name="border_subtle">#DAE2EB</color>
+</resources>

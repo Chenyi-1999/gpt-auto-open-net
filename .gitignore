@@ -1,0 +1,12 @@
+# Local build state and signing material
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+*.jks
+*.keystore
+*.pem
+*.key
+.env
+.env.*

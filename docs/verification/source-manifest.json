@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "exported_at": "2026-11-03T08:26:14+08:00",
+  "timezone": "Asia/Shanghai",
+  "source_files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 84,
+      "sha256": "34da5cd5b85454a3f76977c9260b1226cdad4d15841c7aaeae3938f30b1133a4",
+      "repository_bytes": 79,
+      "repository_sha256": "8e35fca99152b704a5f7c229ce37f8719dcdef3fb45529d3ec2679c86385573c"
+    },
+    {
+      "path": "app/build.gradle",
+      "bytes": 767,
+      "sha256": "37dcacccf72a538045f6f261fbea6b6a2e90b54af3ee98caad62b3b4f8014743",
+      "repository_bytes": 741,
+      "repository_sha256": "0672d121a864c96d88c8add586365d19bdd2761c521982374b043f2b2e81e22a"
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "bytes": 1983,
+      "sha256": "f723b5833f32bcc4f70b63a260eea70763dc6e95626378a983329f380cc663d3",
+      "repository_bytes": 1983,
+      "repository_sha256": "f723b5833f32bcc4f70b63a260eea70763dc6e95626378a983329f380cc663d3"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/BootPreferences.java",
+      "bytes": 3490,
+      "sha256": "ad78c5d821cbc203c399e01e4ce97cc88efd850795aee97a0fb6047d9d4b88d3",
+      "repository_bytes": 3490,
+      "repository_sha256": "ad78c5d821cbc203c399e01e4ce97cc88efd850795aee97a0fb6047d9d4b88d3"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/BootReceiver.java",
+      "bytes": 745,
+      "sha256": "4b9275eeacf2f0f2069f2e475b7498afc688ea7f66f23d8f490b0becbce3f0d1",
+      "repository_bytes": 745,
+      "repository_sha256": "4b9275eeacf2f0f2069f2e475b7498afc688ea7f66f23d8f490b0becbce3f0d1"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/BootWaitPolicy.java",
+      "bytes": 1356,
+      "sha256": "84edd03594aa1fb625dd03d96597ce2a9950e19bea906d6fff5eabe0f9ae7036",
+      "repository_bytes": 1356,
+      "repository_sha256": "84edd03594aa1fb625dd03d96597ce2a9950e19bea906d6fff5eabe0f9ae7036"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/DiagnosticLog.java",
+      "bytes": 1825,
+      "sha256": "e24135e34ad26d75958f4b440cf61ef24898bab0748391dd4a5a4ff5d4d429ec",
+      "repository_bytes": 1825,
+      "repository_sha256": "e24135e34ad26d75958f4b440cf61ef24898bab0748391dd4a5a4ff5d4d429ec"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/GuardPolicy.java",
+      "bytes": 9005,
+      "sha256": "85d0a06def820beb966394b66d4a26f36527a2158b9b54e1996af693fe032c11",
+      "repository_bytes": 8846,
+      "repository_sha256": "81f8fc7c2c7fe27d022bf9a331571ea54ee414e1e591ec8c7373fa2af0b8569e"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/GuardService.java",
+      "bytes": 39268,
+      "sha256": "fceceb9234ac5037d6a88e10e1b16473ba3fb938af2159ac873be15417334fff",
+      "repository_bytes": 38675,
+      "repository_sha256": "e744d4194d04a3cadb26f64e08a9159048239030740cc7619764b0756fcbd9be"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/InterfaceState.java",
+      "bytes": 1768,
+      "sha256": "830eb54ce4f66611964a3219ec6b14ac942908ff6e3821d78cfee9c413c04d5e",
+      "repository_bytes": 1768,
+      "repository_sha256": "830eb54ce4f66611964a3219ec6b14ac942908ff6e3821d78cfee9c413c04d5e"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/InternalTaskRemoval.java",
+      "bytes": 1616,
+      "sha256": "ae5df47d73a81aed35d41db528b23b7c6c7c9e970e202d5a309ce4d0eb988e81",
+      "repository_bytes": 1616,
+      "repository_sha256": "ae5df47d73a81aed35d41db528b23b7c6c7c9e970e202d5a309ce4d0eb988e81"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/MainActivity.java",
+      "bytes": 34445,
+      "sha256": "af712c9902e37a66f5d1df2a4cfc57624cb96c091e6d443e1083a1397132203c",
+      "repository_bytes": 33931,
+      "repository_sha256": "6bfc6cae1baa8ed2e1d18682a9795fd4417819e000b60705139ea65a24623a91"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/NavigationRetryBudget.java",
+      "bytes": 2170,
+      "sha256": "3ace1b15cef75390fd72e5da0139973e44986c9ecec45d6b070e4c4e28c92928",
+      "repository_bytes": 2170,
+      "repository_sha256": "3ace1b15cef75390fd72e5da0139973e44986c9ecec45d6b070e4c4e28c92928"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/OneShotPolicy.java",
+      "bytes": 1123,
+      "sha256": "aca343bf444a4eb99dd6486b875d48a6fecd3efc3f29481a43b00ab7c5f48188",
+      "repository_bytes": 1123,
+      "repository_sha256": "aca343bf444a4eb99dd6486b875d48a6fecd3efc3f29481a43b00ab7c5f48188"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/OverlayAccess.java",
+      "bytes": 472,
+      "sha256": "cf5f8aaebb8062902aef48df4d729e1204490460aa183e0143155a7bdc459d71",
+      "repository_bytes": 472,
+      "repository_sha256": "cf5f8aaebb8062902aef48df4d729e1204490460aa183e0143155a7bdc459d71"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/PageReadyEvidence.java",
+      "bytes": 2792,
+      "sha256": "3f4454eccebdc6ed481197d724a8125346ac0e9f178de96c9230988bc1b657fe",
+      "repository_bytes": 2792,
+      "repository_sha256": "3f4454eccebdc6ed481197d724a8125346ac0e9f178de96c9230988bc1b657fe"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/ProbeAccessibilityService.java",
+      "bytes": 38389,
+      "sha256": "446292b6f1165929b9b0b6e00a83f06a677f7b2032f8e66437b17bddcda7f6e9",
+      "repository_bytes": 37812,
+      "repository_sha256": "59c6c150a8d64bb978811fd5c29fafdf84a82edc033be2d55c403f7d15e1adb1"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/ProbeApplication.java",
+      "bytes": 231,
+      "sha256": "372901a4ce99794b033784d5dff2bb1bea891f7a1e44d642e47f23ca2c56557b",
+      "repository_bytes": 231,
+      "repository_sha256": "372901a4ce99794b033784d5dff2bb1bea891f7a1e44d642e47f23ca2c56557b"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/ProbeStore.java",
+      "bytes": 23858,
+      "sha256": "9415d45dddc555ff1abe9abe5780fd8ea10c8263ba3c675c26810ab6a3e7d906",
+      "repository_bytes": 23478,
+      "repository_sha256": "27cfca69afb714a330855ff519d036814fa6b694c31573a88e64e8185513de4b"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/ReadbackEvidence.java",
+      "bytes": 2213,
+      "sha256": "f525dac814b8950714e678c0c881ac8d9013495f53b9df320b76fa3fe7f68740",
+      "repository_bytes": 2213,
+      "repository_sha256": "f525dac814b8950714e678c0c881ac8d9013495f53b9df320b76fa3fe7f68740"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/SettingsNavigator.java",
+      "bytes": 1608,
+      "sha256": "b399f81d2503e7c18764f1614d27e72b095d25b6741ca30e713284f1ba742938",
+      "repository_bytes": 1581,
+      "repository_sha256": "baca0fc2d9b5d1ad0421ca7a039368a76d4a277e2bf6b5ea151d4c42bc638243"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/StartAuthorization.java",
+      "bytes": 851,
+      "sha256": "d58edf7068c04b5607d22cece009fee4b9bf458d21272dc18cdd4234905b7224",
+      "repository_bytes": 851,
+      "repository_sha256": "d58edf7068c04b5607d22cece009fee4b9bf458d21272dc18cdd4234905b7224"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/SummaryEvidence.java",
+      "bytes": 792,
+      "sha256": "82bd06a991471e81e676bc6f16877c2c979f388a19d3b17288ab560eded5c939",
+      "repository_bytes": 792,
+      "repository_sha256": "82bd06a991471e81e676bc6f16877c2c979f388a19d3b17288ab560eded5c939"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/SwitchStatePolicy.java",
+      "bytes": 1944,
+      "sha256": "344d3298f5dec9a527872eb0c6e7e23338a2369322379c4b841c94f9b3807530",
+      "repository_bytes": 1944,
+      "repository_sha256": "344d3298f5dec9a527872eb0c6e7e23338a2369322379c4b841c94f9b3807530"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/TargetDetector.java",
+      "bytes": 6520,
+      "sha256": "d9ddfe2b22c8adf0ac936c49313d1a9302bd918d07ecceb81692db5ea40cceb6",
+      "repository_bytes": 6520,
+      "repository_sha256": "d9ddfe2b22c8adf0ac936c49313d1a9302bd918d07ecceb81692db5ea40cceb6"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/UsbModeDialogCancelPolicy.java",
+      "bytes": 3094,
+      "sha256": "623ecad678cba199acae30f53643fbb99f380051115f1ba72c5d80bb25edd599",
+      "repository_bytes": 3094,
+      "repository_sha256": "623ecad678cba199acae30f53643fbb99f380051115f1ba72c5d80bb25edd599"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/UsbModeDialogProbe.java",
+      "bytes": 8442,
+      "sha256": "2026c23e91ccc88fd66a7648d41abcc2d8fd09e19e68d0cf51da969b59b2bf23",
+      "repository_bytes": 8442,
+      "repository_sha256": "2026c23e91ccc88fd66a7648d41abcc2d8fd09e19e68d0cf51da969b59b2bf23"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/UsbReconnectEvidence.java",
+      "bytes": 1394,
+      "sha256": "a11c573de66f6ec64daadb7f3c928313a2a7bcbb52544e981aeee0ba83bd3216",
+      "repository_bytes": 1363,
+      "repository_sha256": "ced3691980a1ff23cf48095eefd3e52926e3f41775bfc9ccc7c5f12a29b2cb21"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/VerificationAttempt.java",
+      "bytes": 1322,
+      "sha256": "5071a9bbc0c892b3bbeb43d22edb8e10eb8b7b91a14acb7198b72a13d5251ba6",
+      "repository_bytes": 1295,
+      "repository_sha256": "1b40a50ddfffe7beeef4ca36e56b74819a358ead8b08f8fa301565dcf0268ccd"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/VerificationWindow.java",
+      "bytes": 2463,
+      "sha256": "0642338d6185c416504845a92e6c7e92b5e83e6624f0bb96d2386f928ccd4842",
+      "repository_bytes": 2463,
+      "repository_sha256": "0642338d6185c416504845a92e6c7e92b5e83e6624f0bb96d2386f928ccd4842"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/WakeActivity.java",
+      "bytes": 6018,
+      "sha256": "10c927a291158fc470e2d59cc1ccefea9cb97bfcdbc1340ed54c745a38cd13d0",
+      "repository_bytes": 6018,
+      "repository_sha256": "10c927a291158fc470e2d59cc1ccefea9cb97bfcdbc1340ed54c745a38cd13d0"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/WakeDiagnostics.java",
+      "bytes": 2760,
+      "sha256": "100f615485b0642813296a78962dd133b5d9e330a3029d8123323dc9a1693863",
+      "repository_bytes": 2760,
+      "repository_sha256": "100f615485b0642813296a78962dd133b5d9e330a3029d8123323dc9a1693863"
+    },
+    {
+      "path": "app/src/main/java/com/autousb/helper/WakeWindowSlot.java",
+      "bytes": 1079,
+      "sha256": "0a3066663212cbcc3a7bab65bad3267839684987c6b9d23a9bcb3d5e7917a983",
+      "repository_bytes": 1079,
+      "repository_sha256": "0a3066663212cbcc3a7bab65bad3267839684987c6b9d23a9bcb3d5e7917a983"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher.xml",
+      "bytes": 895,
+      "sha256": "6b93122825faa5d3abf12f76ff7d23f076c545a27418f7e71fb694b833774c04",
+      "repository_bytes": 895,
+      "repository_sha256": "6b93122825faa5d3abf12f76ff7d23f076c545a27418f7e71fb694b833774c04"
+    },
+    {
+      "path": "app/src/main/res/values/colors.xml",
+      "bytes": 715,
+      "sha256": "ae60b6f1fa1b01b90300d0feae22a32790adc12a1ead6e5e7646afc7bd2ce338",
+      "repository_bytes": 715,
+      "repository_sha256": "ae60b6f1fa1b01b90300d0feae22a32790adc12a1ead6e5e7646afc7bd2ce338"
+    },
+    {
+      "path": "app/src/main/res/values/ids.xml",
+      "bytes": 149,
+      "sha256": "f4e04c7354dff83b199644ef90ee55b6a91fdfe84b0167a7c6a03e58e8f431b2",
+      "repository_bytes": 149,
+      "repository_sha256": "f4e04c7354dff83b199644ef90ee55b6a91fdfe84b0167a7c6a03e58e8f431b2"
+    },
+    {
+      "path": "app/src/main/res/values/strings.xml",
+      "bytes": 641,
+      "sha256": "f6930185c0e96eaa3bd89935df5264f22e68ba9b804af426a44af0f9894cc739",
+      "repository_bytes": 641,
+      "repository_sha256": "f6930185c0e96eaa3bd89935df5264f22e68ba9b804af426a44af0f9894cc739"
+    },
+    {
+      "path": "app/src/main/res/values/styles.xml",
+      "bytes": 632,
+      "sha256": "66cb0dd992e4bb2546ca4ea3f74fc9652886afc0579e8c981fbd0de6a72830df",
+      "repository_bytes": 632,
+      "repository_sha256": "66cb0dd992e4bb2546ca4ea3f74fc9652886afc0579e8c981fbd0de6a72830df"
+    },
+    {
+      "path": "app/src/main/res/xml/accessibility_service.xml",
+      "bytes": 546,
+      "sha256": "4eb15e110eaf7a3efaa8860f4e9ea3ba48640a5c8066cf3239d734da52971248",
+      "repository_bytes": 546,
+      "repository_sha256": "4eb15e110eaf7a3efaa8860f4e9ea3ba48640a5c8066cf3239d734da52971248"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/BootPageRetryTest.java",
+      "bytes": 10685,
+      "sha256": "7ffe028fcbb3642c1cf189d641c6d19ab56ee4b51b60f089940c8557107d6c32",
+      "repository_bytes": 10685,
+      "repository_sha256": "7ffe028fcbb3642c1cf189d641c6d19ab56ee4b51b60f089940c8557107d6c32"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/BootStartupTest.java",
+      "bytes": 7819,
+      "sha256": "fc99f3ee1e68c1bdcf96e7774915a1bb703d555649e8123be72610b2812c6468",
+      "repository_bytes": 7819,
+      "repository_sha256": "fc99f3ee1e68c1bdcf96e7774915a1bb703d555649e8123be72610b2812c6468"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/GuardPolicyTest.java",
+      "bytes": 13397,
+      "sha256": "c3b453ea78bf2d8a915ddb6ff54a35a6fa81f9daed69d6172c38234415713ae6",
+      "repository_bytes": 13169,
+      "repository_sha256": "e154255ef5384721409925457216db6c531b038895c75302a5747840e99ad2dc"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/GuardReconnectTest.java",
+      "bytes": 10226,
+      "sha256": "fe0909887e5f0939a019aa0235b5659391b52453f2bef8d805fcec0b6d4ff68e",
+      "repository_bytes": 10044,
+      "repository_sha256": "bfdc3f201166f267e7affd57bda06c2c2f2805e9a8103b6085fefd06144166b9"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/InterfaceStateTest.java",
+      "bytes": 2674,
+      "sha256": "fce00006a9681bd485952d6e3b7a4189c3892d9ba3164ffafe5b0cae7fd9aaf4",
+      "repository_bytes": 2674,
+      "repository_sha256": "fce00006a9681bd485952d6e3b7a4189c3892d9ba3164ffafe5b0cae7fd9aaf4"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/InternalTaskRemovalTest.java",
+      "bytes": 3840,
+      "sha256": "4c040bd73d566b14c4cb7f63f5f3bdfaf81be7ba48ee3c551a16498ca5895677",
+      "repository_bytes": 3840,
+      "repository_sha256": "4c040bd73d566b14c4cb7f63f5f3bdfaf81be7ba48ee3c551a16498ca5895677"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/NavigationRetryBudgetTest.java",
+      "bytes": 11290,
+      "sha256": "b5de286e3a7a301f326ded75c5d5054f8502625d736fa2c5a25c5f338aa8bc9e",
+      "repository_bytes": 11290,
+      "repository_sha256": "b5de286e3a7a301f326ded75c5d5054f8502625d736fa2c5a25c5f338aa8bc9e"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/OneShotPolicyTest.java",
+      "bytes": 2387,
+      "sha256": "e216229cc2d0a3c80efc7b81abaa335d680dcca46b14c2b3348154d7f396b3a4",
+      "repository_bytes": 2387,
+      "repository_sha256": "e216229cc2d0a3c80efc7b81abaa335d680dcca46b14c2b3348154d7f396b3a4"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/ReadbackEvidenceTest.java",
+      "bytes": 5882,
+      "sha256": "f17d80cc51f8aaf6500d9a9d173638a40be8968b7f12664035d20b469003d374",
+      "repository_bytes": 5882,
+      "repository_sha256": "f17d80cc51f8aaf6500d9a9d173638a40be8968b7f12664035d20b469003d374"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/SummaryEvidenceTest.java",
+      "bytes": 1818,
+      "sha256": "59838e71ce239ff0e12ef9e152173964e956ef3c8269f30523ad5947775e728c",
+      "repository_bytes": 1818,
+      "repository_sha256": "59838e71ce239ff0e12ef9e152173964e956ef3c8269f30523ad5947775e728c"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/SwitchStatePolicyTest.java",
+      "bytes": 4181,
+      "sha256": "e5be8a6954440decfd49cdfad2475d4fdce0f8054ef9989a439b92a607abe159",
+      "repository_bytes": 4181,
+      "repository_sha256": "e5be8a6954440decfd49cdfad2475d4fdce0f8054ef9989a439b92a607abe159"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/UsbModeDialogCancelPolicyTest.java",
+      "bytes": 9461,
+      "sha256": "073da419e5dabc92daf9d9dd216c8a9e1d1927ad989ddc3f011fa8be6e155737",
+      "repository_bytes": 9461,
+      "repository_sha256": "073da419e5dabc92daf9d9dd216c8a9e1d1927ad989ddc3f011fa8be6e155737"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/UsbModeDialogProbeTest.java",
+      "bytes": 9868,
+      "sha256": "40c71247c5f9cb62b67cc4bf62e32dfca24a1fbffab8d12d44f1681afaa6683a",
+      "repository_bytes": 9868,
+      "repository_sha256": "40c71247c5f9cb62b67cc4bf62e32dfca24a1fbffab8d12d44f1681afaa6683a"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/UsbReconnectEvidenceTest.java",
+      "bytes": 3211,
+      "sha256": "bb73691f390f18ee9f8aa3c990b034bad5a627bfbaced3d4692ce6af1f5bca8d",
+      "repository_bytes": 3211,
+      "repository_sha256": "bb73691f390f18ee9f8aa3c990b034bad5a627bfbaced3d4692ce6af1f5bca8d"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/VerificationAttemptTest.java",
+      "bytes": 1921,
+      "sha256": "da733ae84dceb5814f7452ff38ad93314862848b7e0212ad419db1a68787be27",
+      "repository_bytes": 1921,
+      "repository_sha256": "da733ae84dceb5814f7452ff38ad93314862848b7e0212ad419db1a68787be27"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/VerificationWindowTest.java",
+      "bytes": 12059,
+      "sha256": "70092a229ba6d72b14703e2d676f1ef3bd801d245477e0c9bc8a12bde38eb842",
+      "repository_bytes": 12059,
+      "repository_sha256": "70092a229ba6d72b14703e2d676f1ef3bd801d245477e0c9bc8a12bde38eb842"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/WakeDiagnosticsTest.java",
+      "bytes": 3682,
+      "sha256": "00610f30bc78bd3c14b9f90a3cc1f76db636b841b4016a7d3b1f5a06868bbf7d",
+      "repository_bytes": 3682,
+      "repository_sha256": "00610f30bc78bd3c14b9f90a3cc1f76db636b841b4016a7d3b1f5a06868bbf7d"
+    },
+    {
+      "path": "app/src/test/java/com/autousb/helper/WakeWindowTest.java",
+      "bytes": 5138,
+      "sha256": "afbfaba292b2e66765c8e41fbdbbe058c09e69d3092cfa7f8e7740cb183a99d4",
+      "repository_bytes": 5138,
+      "repository_sha256": "afbfaba292b2e66765c8e41fbdbbe058c09e69d3092cfa7f8e7740cb183a99d4"
+    },
+    {
+      "path": "build.gradle",
+      "bytes": 74,
+      "sha256": "6844d442e0ae87ec0b784c8afe5598878784c4fa41aced1e9389a9b3bfb25666",
+      "repository_bytes": 74,
+      "repository_sha256": "6844d442e0ae87ec0b784c8afe5598878784c4fa41aced1e9389a9b3bfb25666"
+    },
+    {
+      "path": "gradle.properties",
+      "bytes": 77,
+      "sha256": "4667473ab79d19d7b6d3f7c341c798a60b413fa3aa08587ce81809a58c797904",
+      "repository_bytes": 77,
+      "repository_sha256": "4667473ab79d19d7b6d3f7c341c798a60b413fa3aa08587ce81809a58c797904"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "bytes": 43705,
+      "sha256": "81a82aaea5abcc8ff68b3dfcb58b3c3c429378efd98e7433460610fecd7ae45f",
+      "repository_bytes": 43705,
+      "repository_sha256": "81a82aaea5abcc8ff68b3dfcb58b3c3c429378efd98e7433460610fecd7ae45f"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "bytes": 340,
+      "sha256": "32c312c99216f81e66e542eafcb0d7e24c804269b1b702fdeab8b93ba0bc41d3",
+      "repository_bytes": 340,
+      "repository_sha256": "32c312c99216f81e66e542eafcb0d7e24c804269b1b702fdeab8b93ba0bc41d3"
+    },
+    {
+      "path": "gradlew",
+      "bytes": 8752,
+      "sha256": "734b3879d3501dce471cf0522d3bcbafe76873d9fc5129345b67fb43bd15e933",
+      "repository_bytes": 8752,
+      "repository_sha256": "734b3879d3501dce471cf0522d3bcbafe76873d9fc5129345b67fb43bd15e933"
+    },
+    {
+      "path": "gradlew.bat",
+      "bytes": 2966,
+      "sha256": "57931b17dd228e5c24dac90e815d0bf82477e831a4618dfab4136f5446b42a9f",
+      "repository_bytes": 2872,
+      "repository_sha256": "2209f919a22528af59a2af2ad97e8d056cca18e39f7d87aa3fd549a73b180150"
+    },
+    {
+      "path": "settings.gradle",
+      "bytes": 284,
+      "sha256": "356d60e476d405ac905e062a84c20cbe1b41f4f2dc25e01bd688ef0f8b7d7bb1",
+      "repository_bytes": 284,
+      "repository_sha256": "356d60e476d405ac905e062a84c20cbe1b41f4f2dc25e01bd688ef0f8b7d7bb1"
+    }
+  ],
+  "checks": {
+    "source_bytes_preserved": true,
+    "sensitive_scan": "passed",
+    "public_build": "PASS; see build-summary-1.1.7.json",
+    "public_unit_tests": "179 executed; zero failures/errors/skips",
+    "public_lint": "0 errors, 6 warnings",
+    "public_git": "Export was created before Git initialization; original history excluded",
+    "public_release": "Artifact verified; remote publication status is shown on the Release page"
+  },
+  "line_ending_policy": "bytes/sha256 describe preserved exported worktree bytes; repository_* describe Git-normalized content for source archive verification"
+}

@@ -1,0 +1,52 @@
+{
+  "verifiedAt": "2026-11-03T08:28:54+08:00",
+  "artifact": "dist/usb-share-guard-1.1.7.apk",
+  "bytes": 161764,
+  "sha256": "29842adc77644b3852441dfb36e00071bb781070372159aa68c5f799732ba44b",
+  "package": "com.autousb.helper",
+  "versionCode": 19,
+  "versionName": "1.1.7",
+  "minSdk": 31,
+  "targetSdk": 36,
+  "permissions": [
+    "android.permission.ACCESS_NETWORK_STATE",
+    "android.permission.FOREGROUND_SERVICE",
+    "android.permission.RECEIVE_BOOT_COMPLETED",
+    "android.permission.SYSTEM_ALERT_WINDOW"
+  ],
+  "build": {
+    "result": "SUCCESS",
+    "tasks": [
+      "assembleRelease",
+      "testDebugUnitTest",
+      "lintRelease"
+    ],
+    "unitTask": "EXECUTED; new public workspace, not UP-TO-DATE or FROM-CACHE"
+  },
+  "unitTests": {
+    "tests": 179,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "suites": 18,
+  "lint": {
+    "errors": 0,
+    "fatal": 0,
+    "warnings": 6
+  },
+  "signature": {
+    "v2": "PASS",
+    "certificateSha256": "d69f5750aec6503831396425469054f9f13f58da861798f6f6c13bcfb8bdce55",
+    "kind": "Existing development certificate; private key not distributed"
+  },
+  "checks": {
+    "sourceFilesPreserved": 64,
+    "zipCrc": "PASS",
+    "apkPayloadExceptVcsMetadataIdentical": true,
+    "privateRevisionAbsent": true,
+    "vcsStatus": "NO_SUPPORTED_VCS_FOUND",
+    "runtimeCodeResourcesAndManifestUnchanged": true
+  },
+  "deviceValidation": "No new on-device installation or acceptance testing. Historical v18 evidence only; see TEST_REPORT.md."
+}
